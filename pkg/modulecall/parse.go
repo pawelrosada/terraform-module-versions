@@ -5,7 +5,7 @@ import (
 
 	"github.com/Masterminds/semver/v3"
 	"github.com/hashicorp/terraform-config-inspect/tfconfig"
-	"github.com/keilerkonzept/terraform-module-versions/pkg/source"
+	"github.com/pawelrosada/terraform-module-versions/pkg/source"
 )
 
 type Parsed struct {

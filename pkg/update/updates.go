@@ -5,9 +5,9 @@ import (
 
 	"github.com/Masterminds/semver/v3"
 	"github.com/go-git/go-git/v5/plumbing/transport"
-	"github.com/keilerkonzept/terraform-module-versions/pkg/registry"
-	"github.com/keilerkonzept/terraform-module-versions/pkg/source"
-	"github.com/keilerkonzept/terraform-module-versions/pkg/versions"
+	"github.com/pawelrosada/terraform-module-versions/pkg/registry"
+	"github.com/pawelrosada/terraform-module-versions/pkg/source"
+	"github.com/pawelrosada/terraform-module-versions/pkg/versions"
 )
 
 type Client struct {

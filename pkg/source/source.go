@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/keilerkonzept/terraform-module-versions/internal/regsrc"
+	"github.com/pawelrosada/terraform-module-versions/internal/regsrc"
 )
 
 type Source struct {
