@@ -1,4 +1,4 @@
-module github.com/keilerkonzept/terraform-module-versions
+module github.com/pawelrosada/terraform-module-versions
 
 go 1.19
 
